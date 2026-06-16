@@ -1,4 +1,4 @@
-public class CharacterCount {
+public class Problem11 {
     public static void main(String[] args) {
 
         String str = "Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33";

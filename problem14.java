@@ -1,4 +1,4 @@
-public class DivisibleNumbers {
+public class Problem14 {
     public static void main(String[] args) {
 
         System.out.println("Divided by 3:");
